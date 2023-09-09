@@ -8,9 +8,7 @@
 
 - <i> Homies :- Javascript, Typescript and C++</i>
 
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
-
-- I do fullstack/leetcode and.... :heart:
+- I do fullstack/leetcode and.... anime :heart:
 
 - Doing what feels like fun.
 
