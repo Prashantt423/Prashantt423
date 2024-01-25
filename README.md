@@ -4,11 +4,11 @@
   <h3> HI , I'm Prashant Kashyap (4th year CSE), from India.</h3>
 </p>
 
-- 🥀 Learning AIML.
+- 🥀 Can't get enough of one hence..Learning New Technologies.
 
 - <i> Homies :- Javascript, Typescript and C++</i>
 
-- I do fullstack/leetcode and.... anime :heart:
+- I do web fullstack/leetcode/codechef/codeforces and.... anime :heart:
 
 - Doing what feels like fun.
 
