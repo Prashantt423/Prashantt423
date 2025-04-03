@@ -6,7 +6,7 @@
 
 - 🥀 Can't get enough of one hence..Learning New Technologies.
 
-- <i> Homies :- Javascript, Typescript and C++</i>
+- <i> Homies :- Javascript, Typescript, Python and C++</i>
 
 - I do web fullstack/leetcode/codechef/codeforces and.... anime :heart:
 
